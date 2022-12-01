@@ -5,7 +5,7 @@ public class Test1 {
 
 		String hungry= "yes";
 		
-		if(hungry == "yes" || hungry == "Y" || hungry == "y")
+		if(hungry == "yes"|| hungry == "Y" || hungry == "y")
 		{
 			System.out.println("Eat something...");
 		}
